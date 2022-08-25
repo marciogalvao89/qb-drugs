@@ -155,7 +155,7 @@ Config.DrugsPrice = {
 }
 
 -- Delivery Config
-Config.UseMarkedBills = false -- true for marked bills, false for cash
+Config.UseMarkedBills = true -- true for marked bills, false for cash
 Config.DeliveryRepGain = 1 -- amount of rep gained per delivery
 Config.DeliveryRepLoss = 1 -- amount of rep lost if delivery wrong or late
 Config.PoliceDeliveryModifier = 2 -- amount to multiply active cop count by
